@@ -1,2 +1,28 @@
-# 245b1e5cbbd46b48-dental-data-visualization-and
-Every dental professionals needs this — most just don't know it yet.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Dental Data Visualization And Reporting — fully configured and ready to use - Pre-built n8n
+# Dental Data Visualization and Reporting Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFaaEX3aL3o85tu0VecZG3V)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFaaEX3aL3o85tu0VecZG3V)
+
